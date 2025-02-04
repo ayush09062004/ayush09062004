@@ -6,7 +6,8 @@
 
 ## 📫 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Raj-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ayush-raj-897133323/)  
-[![GitHub](https://img.shields.io/badge/GitHub-ayush09062004-lightgrey?style=flat&logo=github)](https://github.com/ayush09062004)  
+🔗 **Portfolio:** [ayush09062004.github.io](https://ayush09062004.github.io/PortfolioWebsite/)
+
 📧 Email: [ayush.raj.bme22@iitbhu.ac.in](mailto:ayush.raj.bme22@iitbhu.ac.in)  
 
 ---
