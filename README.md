@@ -13,7 +13,7 @@
 
 ## 🧠 Research & Projects  
 [🔗 GitHub](https://github.com/ayush09062004)  
-🌐 **Portfolio:** [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat&logo=google-chrome)](https://ayush09062004.github.io/PortfolioWebsite/)
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat&logo=google-chrome)](https://ayush09062004.github.io/PortfolioWebsite/)
 
 
 ---
