@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ayush Raj  
 
 🎓 **3rd Year Undergraduate** | Biomedical Engineering @ **IIT BHU**  
-💡 **Interested in:** Computational Neuroscience, AI in Healthcare, and Psychology  
-🔬 **Research Areas:** Machine Learning, LLMs, Neuroimaging, Eye-tracking, Behaviour Analysis  
+💡 **Interested in:** Computational Neuroscience, ML/AI in Healthcare & Bioengineering, and Psychology  
+🔬 **Research Areas:** Machine Learning for Computational Neuroscience & Bioengineering, LLMs, Neuroimaging and Eye-tracking for Behaviour Analysis  
 
 ## 📫 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Raj-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ayush-raj-897133323/)  
@@ -13,6 +13,8 @@
 
 ## 🧠 Research & Projects  
 [🔗 GitHub](https://github.com/ayush09062004)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://ayush09062004.github.io/PortfolioWebsite/)
+
 
 ---
 ## 🚀 Tech Stack
@@ -37,7 +39,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge&logo=xgboost&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-0288D1?style=for-the-badge&logo=lightgbm&logoColor=white)
 
 ### 🛠 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
