@@ -13,6 +13,7 @@
 
 ## 🧠 Research & Projects  
 [🔗 GitHub](https://github.com/ayush09062004)  
+🌐 **Portfolio:** [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat&logo=google-chrome)](https://ayush09062004.github.io/PortfolioWebsite/)
 
 
 ---
@@ -55,8 +56,8 @@
 ## 🌱 Currently Exploring  
 
 🔬 Brain-inspired AI models and **Neuroscience-based Machine Learning**  
-🚀 Competitive Programming (Striver CP Sheet, GeeksforGeeks)  
-📖 **Publishing research** on ASD subtypes & neuroimaging  
+🚀 Competitive Programming & DSA 
+📖 **Psychology**
 
 ---
 
