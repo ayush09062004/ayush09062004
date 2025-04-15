@@ -67,7 +67,7 @@ I love **coding, research, and blending neuroscience with AI!** Always up for **
 
 ### 📌 Let's Connect!  
 📩 Email: [ayush.raj.bme22@iitbhu.ac.in](mailto:ayush.raj.bme22@iitbhu.ac.in)  
-🌍 [LinkedIn](https://linkedin.com/in/ayush-raj-897133323/) | [GitHub](https://github.com/ayush09062004)  
+🌍[GitHub](https://github.com/ayush09062004)  
 
 🚀 _"AI is not just technology; it's a philosophy."_  
 
