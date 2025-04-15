@@ -5,7 +5,6 @@
 🔬 **Research Areas:** Machine Learning for Computational Neuroscience & Bioengineering, LLMs, Neuroimaging and Eye-tracking for Behaviour Analysis  
 
 ## 📫 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Raj-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ayush-raj-897133323/) 
 
 📧 Email: [ayush.raj.bme22@iitbhu.ac.in](mailto:ayush.raj.bme22@iitbhu.ac.in)  
 
