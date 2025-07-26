@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayush Raj  
 
-🎓 **3rd Year Undergraduate** | Biomedical Engineering @ **IIT BHU**  
+🎓 **4th Year Undergraduate** | Biomedical Engineering @ **IIT BHU**  
 💡 **Interested in:** Computational Neuroscience, ML/AI in Healthcare & Bioengineering, and Psychology  
 🔬 **Research Areas:** Machine Learning for Computational Neuroscience & Bioengineering, LLMs, Neuroimaging and Eye-tracking for Behaviour Analysis  
 
